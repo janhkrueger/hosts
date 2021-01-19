@@ -3,3 +3,10 @@
 # https://janhkrueger.gitlab.io/blog/
 
 0.0.0.0 sportdaten.spiegel.de
+0.0.0.0 sak.userreport.com
+
+#=====================================
+# Regular Expressions
+(\.|^)opecloud\.com$
+(\.|^)vgwort\.de$
+(\.|^)doubleclick\.net$
