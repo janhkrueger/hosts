@@ -6,9 +6,13 @@
 
 0.0.0.0 sportdaten.spiegel.de
 0.0.0.0 sak.userreport.com
-mwf-service.akamaized.net
-statics-marketingsites-wcus-ms-com.akamaized.net
-edge.microsoft.com
+0.0.0.0 mwf-service.akamaized.net
+0.0.0.0 statics-marketingsites-wcus-ms-com.akamaized.net
+0.0.0.0 edge.microsoft.com
+0.0.0.0 widgets.outbrain.com
+0.0.0.0 traffic.emsservice.de
+0.0.0.0 s240.mxcdn.net
+0.0.0.0 mxcdn.net
 
 #=====================================
 # Regular Expressions
@@ -20,3 +24,6 @@ edge.microsoft.com
 (\.|^)mxcdn\.net$
 (\.|^)googlesyndication\.com$
 (\.|^)ioam\.de$
+(\.|^)mxcdn\.net$
+(\.|^)warnermediacdn\.com$
+(\.|^)beemray\.com$
