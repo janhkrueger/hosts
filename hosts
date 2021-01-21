@@ -4,10 +4,6 @@
 #
 # The list is for my private browsing and not created to be compatible with other people browsing habits.
 
-127.0.0.1 localhost
-
-::1 localhost #[IPv6]
-
 0.0.0.0 sportdaten.spiegel.de
 0.0.0.0 sak.userreport.com
 0.0.0.0 mwf-service.akamaized.net
@@ -20,6 +16,23 @@
 0.0.0.0 sni.cdn.prod.www.spiegel.de.c.footprint.net
 0.0.0.0 catalog.gamepass.com
 0.0.0.0 videos.sharesome.com
+0.0.0.0 facebook.com
+0.0.0.0 ads.double.net
+0.0.0.0 3642305.fls.doubleclick.net
+0.0.0.0 3765329.fls.doubleclick.net
+0.0.0.0 4514783.fls.doubleclick.net
+0.0.0.0 4923503.fls.doubleclick.net
+0.0.0.0 4942839.fls.doubleclick.net
+0.0.0.0 5582200.fls.doubleclick.net
+0.0.0.0 8210643.fls.doubleclick.net
+0.0.0.0 8482194.fls.doubleclick.net
+0.0.0.0 8563004.fls.doubleclick.net
+0.0.0.0 adx.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 undefined.fls.doubleclick.net
 
 #=====================================
 # Regular Expressions
