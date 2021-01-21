@@ -4,6 +4,10 @@
 #
 # The list is for my private browsing and not created to be compatible with other people browsing habits.
 
+127.0.0.1 localhost
+
+::1 localhost #[IPv6]
+
 0.0.0.0 sportdaten.spiegel.de
 0.0.0.0 sak.userreport.com
 0.0.0.0 mwf-service.akamaized.net
