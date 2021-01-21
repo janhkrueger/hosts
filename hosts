@@ -13,6 +13,7 @@
 0.0.0.0 traffic.emsservice.de
 0.0.0.0 s240.mxcdn.net
 0.0.0.0 mxcdn.net
+0.0.0.0 sni.cdn.prod.www.spiegel.de.c.footprint.net
 
 #=====================================
 # Regular Expressions
