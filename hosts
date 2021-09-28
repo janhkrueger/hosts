@@ -38,6 +38,15 @@
 0.0.0.0 ci.oldsmar.fl.us
 0.0.0.0 oldsmar.fl.us
 0.0.0.0 epochtimes.de
+0.0.0.0 assets.scoober.com
+
+0.0.0.0 abcdefghijklmnopqrstuvwxyz012345.plex.direct
+0.0.0.0 *.abcdefghijklmnopqrstuvwxyz012345.plex.direct
+
+# Games and their Tracker
+0.0.0.0 stat.questofislands.com
+
+
 
 #=====================================
 # Regular Expressions
