@@ -54,6 +54,12 @@
 0.0.0.0 msn.com
 0.0.0.0 client.wns.windows.com
 
+# Unknown
+0.0.0.0 (\.|^)omny\.fm$
+0.0.0.0 omny.fm
+0.0.0.0 assets.omny.fm
+0.0.0.0 omnycontent.com
+
 #=====================================
 # Regular Expressions
 (\.|^)opecloud\.com$
