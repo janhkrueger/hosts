@@ -59,6 +59,19 @@
 0.0.0.0 omny.fm
 0.0.0.0 assets.omny.fm
 0.0.0.0 omnycontent.com
+0.0.0.0 treasuredata.com
+
+# opendoor.com
+0.0.0.0 *.adnxs.com
+0.0.0.0 adnxs.com
+0.0.0.0 *.doubleclick.net
+0.0.0.0 doubleclick.net
+0.0.0.0 hotjar.com
+0.0.0.0 *.hotjar.com
+0.0.0.0 segment.io
+0.0.0.0 *.segment.io
+0.0.0.0 segment.com
+0.0.0.0 *.segment.com
 
 #=====================================
 # Regular Expressions
@@ -69,6 +82,9 @@
 (\.|^)criteo\.net$
 (\.|^)mxcdn\.net$
 (\.|^)googlesyndication\.com$
+(\.|^)googleadservices\.com$
+(\.|^)googletagmanager\.com$
+(\.|^)google-analytics\.com$
 (\.|^)ioam\.de$
 (\.|^)mxcdn\.net$
 (\.|^)warnermediacdn\.com$
