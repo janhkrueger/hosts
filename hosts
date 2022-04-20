@@ -8,7 +8,6 @@
 0.0.0.0 sak.userreport.com
 0.0.0.0 mwf-service.akamaized.net
 0.0.0.0 statics-marketingsites-wcus-ms-com.akamaized.net
-0.0.0.0 edge.microsoft.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 traffic.emsservice.de
 0.0.0.0 s240.mxcdn.net
@@ -61,6 +60,7 @@
 0.0.0.0 clarity.ms
 0.0.0.0 c.clarity.ms
 0.0.0.0 j.clarity.ms
+0.0.0.0 edge.microsoft.com
 
 # Amazon
 0.0.0.0 aax.amazon-adsystem.com
