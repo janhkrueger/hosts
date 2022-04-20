@@ -58,6 +58,9 @@
 0.0.0.0 skype.com
 0.0.0.0 msn.com
 0.0.0.0 client.wns.windows.com
+0.0.0.0 clarity.ms
+0.0.0.0 c.clarity.ms
+0.0.0.0 j.clarity.ms
 
 # Unknown
 0.0.0.0 (\.|^)omny\.fm$
