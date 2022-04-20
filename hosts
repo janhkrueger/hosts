@@ -8,7 +8,6 @@
 0.0.0.0 sak.userreport.com
 0.0.0.0 mwf-service.akamaized.net
 0.0.0.0 statics-marketingsites-wcus-ms-com.akamaized.net
-0.0.0.0 widgets.outbrain.com
 0.0.0.0 traffic.emsservice.de
 0.0.0.0 s240.mxcdn.net
 0.0.0.0 mxcdn.net
@@ -67,6 +66,30 @@
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 amazon-adsystem.com
 
+# Salesforce
+0.0.0.0 cdn.krxd.net
+
+# TrustArc
+0.0.0.0 consent.truste.com
+0.0.0.0 truste.com
+
+# Usability
+0.0.0.0 w.usabilla.com
+
+# ComScore
+0.0.0.0 sb.scorecardresearch.com
+
+# Sovrn Holdings
+0.0.0.0 get.s-onetag.com
+0.0.0.0 s-onetag.com
+
+# Outbrain
+0.0.0.0 widgets.outbrain.com
+0.0.0.0 amplify.outbrain.com
+0.0.0.0 vrt.outbrain.com
+
+# Bounce Exchange
+0.0.0.0 tag.bounceexchange.com
 
 # Unknown
 0.0.0.0 (\.|^)omny\.fm$
