@@ -127,6 +127,14 @@
 0.0.0.0 smartadserver.com
 0.0.0.0 *.smartadserver.com
 
+# Criteo
+0.0.0.0 bidder.criteo.com
+0.0.0.0 gum.criteo.com
+0.0.0.0 static.criteo.net
+0.0.0.0 *.criteo.com
+0.0.0.0 *.criteo.net
+(\.|^)criteo\.net$
+(\.|^)criteo\.com$
 
 # Unknown
 0.0.0.0 (\.|^)omny\.fm$
@@ -153,7 +161,6 @@
 (\.|^)vgwort\.de$
 (\.|^)doubleclick\.net$
 (\.|^)trafficmanager\.net$
-(\.|^)criteo\.net$
 (\.|^)mxcdn\.net$
 (\.|^)googlesyndication\.com$
 (\.|^)googleadservices\.com$
