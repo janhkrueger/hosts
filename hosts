@@ -223,6 +223,13 @@
 0.0.0.0 *.adsrvr.org
 (\.|^)adsrvr\.org$
 
+# IPONWEB
+0.0.0.0 x.bidswitch.net
+0.0.0.0 *.bidswitch.net
+0.0.0.0 bidswitch.net
+(\.|^)bidswitch\.net$
+
+
 # Specific Sites
 0.0.0.0 epochtimes.de
 0.0.0.0 journalistenwatch.com
