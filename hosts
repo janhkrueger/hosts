@@ -142,6 +142,11 @@
 # ID5
 0.0.0.0 id5-sync.com
 
+# Adform
+0.0.0.0 adx.adform.net
+0.0.0.0 adform.net
+0.0.0.0 *.adform.net
+
 # Unknown
 0.0.0.0 (\.|^)omny\.fm$
 0.0.0.0 omny.fm
