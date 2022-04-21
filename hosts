@@ -170,6 +170,13 @@
 0.0.0.0 *.adscale.de
 (\.|^)adscale\.de$
 
+# JustPremium
+0.0.0.0 pre.ads.justpremium.com
+0.0.0.0 ads.justpremium.com
+0.0.0.0 justpremium.com
+0.0.0.0 *.justpremium.com
+(\.|^)justpremium\.com$
+
 # Unknown
 0.0.0.0 (\.|^)omny\.fm$
 0.0.0.0 omny.fm
