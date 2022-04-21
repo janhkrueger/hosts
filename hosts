@@ -9,8 +9,6 @@
 0.0.0.0 mwf-service.akamaized.net
 0.0.0.0 statics-marketingsites-wcus-ms-com.akamaized.net
 0.0.0.0 traffic.emsservice.de
-0.0.0.0 s240.mxcdn.net
-0.0.0.0 mxcdn.net
 0.0.0.0 catalog.gamepass.com
 0.0.0.0 videos.sharesome.com
 0.0.0.0 facebook.com
@@ -152,6 +150,13 @@
 0.0.0.0 theadex.com
 0.0.0.0 *.theadex.com
 
+# DoubleVerify
+0.0.0.0 s240.mxcdn.net
+0.0.0.0 mxcdn.net
+0.0.0.0 *.mxcdn.net
+(\.|^)mxcdn\.net$
+(\.|^)mxcdn\.net$
+
 # Unknown
 0.0.0.0 (\.|^)omny\.fm$
 0.0.0.0 omny.fm
@@ -177,12 +182,11 @@
 (\.|^)vgwort\.de$
 (\.|^)doubleclick\.net$
 (\.|^)trafficmanager\.net$
-(\.|^)mxcdn\.net$
+
 (\.|^)googlesyndication\.com$
 (\.|^)googleadservices\.com$
 (\.|^)googletagmanager\.com$
 (\.|^)google-analytics\.com$
 (\.|^)ioam\.de$
-(\.|^)mxcdn\.net$
 (\.|^)warnermediacdn\.com$
 (\.|^)beemray\.com$
