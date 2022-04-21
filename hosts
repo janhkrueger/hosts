@@ -85,6 +85,8 @@
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 amazon-adsystem.com
+0.0.0.0 *.amazon-adsystem.com
+(\.|^)amazon-adsystem\.com$
 
 # Salesforce
 0.0.0.0 cdn.krxd.net
