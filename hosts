@@ -236,6 +236,11 @@
 0.0.0.0 parsley.com
 (\.|^)parsley\.com$
 
+# Permutive
+cdn.permutive.com
+permutive.com
+(\.|^)permutive\.com$
+
 # Specific Sites
 0.0.0.0 epochtimes.de
 0.0.0.0 journalistenwatch.com
