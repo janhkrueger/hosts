@@ -172,13 +172,20 @@
 0.0.0.0 dmp.theadex.com
 0.0.0.0 theadex.com
 0.0.0.0 *.theadex.com
+(\.|^)theadex\.com$
+0.0.0.0 dsp.adfarm1.adition.com
+0.0.0.0 *.adfarm1.adition.com
+0.0.0.0 adfarm1.adition.com
+0.0.0.0 adition.com
+0.0.0.0 *.adition.com
+(\.|^)adition\.com$
 
 # DoubleVerify
 0.0.0.0 s240.mxcdn.net
 0.0.0.0 mxcdn.net
 0.0.0.0 *.mxcdn.net
 (\.|^)mxcdn\.net$
-(\.|^)mxcdn\.net$
+
 
 # District M
 0.0.0.0 dmx.districtm.io
