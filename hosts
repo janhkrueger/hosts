@@ -118,6 +118,10 @@
 0.0.0.0 yieldlove-d.openx.net
 0.0.0.0 openx.net
 
+# The Rubicon Project
+0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 rubiconproject.com
+
 
 # Unknown
 0.0.0.0 (\.|^)omny\.fm$
