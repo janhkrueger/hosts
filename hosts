@@ -76,7 +76,10 @@
 0.0.0.0 clarity.ms
 0.0.0.0 c.clarity.ms
 0.0.0.0 j.clarity.ms
+0.0.0.0 k.clarity.ms
+0.0.0.0 *.clarity.ms
 0.0.0.0 edge.microsoft.com
+(\.|^)clarity\.ms$
 
 # Amazon
 0.0.0.0 aax.amazon-adsystem.com
