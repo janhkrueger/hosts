@@ -117,7 +117,9 @@
 # WarnerMedia
 0.0.0.0 ib.adnxs.com
 0.0.0.0 adnxs.com
-0.0.0.0 *. adnxs.com
+0.0.0.0 *.adnxs.com
+(\.|^)warnermediacdn\.com$
+(\.|^)adnxs\.com$
 
 # PubMatic
 0.0.0.0 hbopenid.pubmatic.com
@@ -239,5 +241,4 @@
 (\.|^)vgwort\.de$
 (\.|^)trafficmanager\.net$
 (\.|^)ioam\.de$
-(\.|^)warnermediacdn\.com$
 (\.|^)beemray\.com$
