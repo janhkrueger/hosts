@@ -7,7 +7,6 @@
 0.0.0.0 mwf-service.akamaized.net
 0.0.0.0 statics-marketingsites-wcus-ms-com.akamaized.net
 0.0.0.0 traffic.emsservice.de
-0.0.0.0 catalog.gamepass.com
 0.0.0.0 videos.sharesome.com
 0.0.0.0 ads.double.net
 0.0.0.0 themindcircle.com
@@ -17,6 +16,10 @@
 0.0.0.0 assets.scoober.com
 0.0.0.0 gettr.com
 0.0.0.0 fllwrs.com
+
+
+# XBox
+0.0.0.0 catalog.gamepass.com
 
 # Facebook / Meta
 0.0.0.0 facebook.com
