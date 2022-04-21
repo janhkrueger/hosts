@@ -15,12 +15,10 @@
 0.0.0.0 leoninestudios.com
 0.0.0.0 ci.oldsmar.fl.us
 0.0.0.0 oldsmar.fl.us
-0.0.0.0 epochtimes.de
 0.0.0.0 assets.scoober.com
 0.0.0.0 gettr.com
-0.0.0.0 journalistenwatch.com
 0.0.0.0 fllwrs.com
-0.0.0.0 philosophia-perennis.com
+
 
 # Plex
 0.0.0.0 abcdefghijklmnopqrstuvwxyz012345.plex.direct
@@ -188,6 +186,11 @@
 0.0.0.0 hgc-cf-cache-1.svonm.com
 0.0.0.0 svonm.com
 0.0.0.0 *.svonm.com
+
+# Specific Sites
+0.0.0.0 epochtimes.de
+0.0.0.0 journalistenwatch.com
+0.0.0.0 philosophia-perennis.com
 
 # Unknown
 0.0.0.0 (\.|^)omny\.fm$
