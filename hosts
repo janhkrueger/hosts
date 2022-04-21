@@ -286,6 +286,9 @@ permutive.com
 0.0.0.0 bugsnag.com
 (\.|^)bugsbag\.com$
 
+# Cloudflare
+0.0.0.0 static.cloudflareinsights.com
+
 # Specific Sites
 0.0.0.0 epochtimes.de
 0.0.0.0 journalistenwatch.com
