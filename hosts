@@ -229,6 +229,11 @@
 0.0.0.0 bidswitch.net
 (\.|^)bidswitch\.net$
 
+# MediaMath
+0.0.0.0 sync.mathtag.com
+0.0.0.0 mathtag.com
+0.0.0.0 *.mathtag.com
+(\.|^)mathtag\.com$
 
 # Specific Sites
 0.0.0.0 epochtimes.de
