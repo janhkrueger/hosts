@@ -76,12 +76,10 @@
 0.0.0.0 msn.com
 0.0.0.0 client.wns.windows.com
 0.0.0.0 clarity.ms
-0.0.0.0 *.clarity.ms
 0.0.0.0 c.clarity.ms
 0.0.0.0 h.clarity.ms
 0.0.0.0 j.clarity.ms
 0.0.0.0 k.clarity.ms
-0.0.0.0 *.clarity.ms
 0.0.0.0 edge.microsoft.com
 (\.|^)clarity\.ms$
 
@@ -146,7 +144,6 @@
 # Smartadserver
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 smartadserver.com
-0.0.0.0 *.smartadserver.com
 
 # Criteo
 0.0.0.0 bidder.criteo.com
