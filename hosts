@@ -136,6 +136,9 @@
 (\.|^)criteo\.net$
 (\.|^)criteo\.com$
 
+# Improve Digital
+0.0.0.0 ice.360yield.com
+
 # Unknown
 0.0.0.0 (\.|^)omny\.fm$
 0.0.0.0 omny.fm
