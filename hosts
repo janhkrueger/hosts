@@ -281,6 +281,11 @@ permutive.com
 0.0.0.0 fullstory.com
 (\.|^)fullstory\.com$
 
+# BugSnag
+0.0.0.0 sessions.bugsnag.com
+0.0.0.0 bugsnag.com
+(\.|^)bugsbag\.com$
+
 # Specific Sites
 0.0.0.0 epochtimes.de
 0.0.0.0 journalistenwatch.com
