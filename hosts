@@ -108,6 +108,10 @@
 0.0.0.0 *.pubmatic.com
 0.0.0.0 pubmatic.com
 
+# Index Exchange
+0.0.0.0 htlb.casalemedia.com
+
+
 # Unknown
 0.0.0.0 (\.|^)omny\.fm$
 0.0.0.0 omny.fm
