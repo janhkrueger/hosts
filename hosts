@@ -184,6 +184,11 @@
 0.0.0.0 userreport.com
 (\.|^)userreport\.com$
 
+# schnee von morgen webTV
+0.0.0.0 hgc-cf-cache-1.svonm.com
+0.0.0.0 svonm.com
+0.0.0.0 *.svonm.com
+
 # Unknown
 0.0.0.0 (\.|^)omny\.fm$
 0.0.0.0 omny.fm
