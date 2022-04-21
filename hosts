@@ -129,6 +129,10 @@
 
 # Index Exchange
 0.0.0.0 htlb.casalemedia.com
+0.0.0.0 ssum-sec.casalemedia.com
+0.0.0.0 casalemedia.com
+0.0.0.0 *.casalemedia.com
+(\.|^)casalemedia\.com$
 
 # openX
 0.0.0.0 yieldlove-d.openx.net
