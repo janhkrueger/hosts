@@ -225,6 +225,12 @@
 0.0.0.0 mathtag.com
 (\.|^)mathtag\.com$
 
+# Oracle
+0.0.0.0 mb.moatads.com
+0.0.0.0 z.moatads.com
+0.0.0.0 moatads.com
+(\.|^)moatads\.com$
+
 # Specific Sites
 0.0.0.0 epochtimes.de
 0.0.0.0 journalistenwatch.com
