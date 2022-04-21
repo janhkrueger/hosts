@@ -16,21 +16,6 @@
 0.0.0.0 videos.sharesome.com
 0.0.0.0 facebook.com
 0.0.0.0 ads.double.net
-0.0.0.0 3642305.fls.doubleclick.net
-0.0.0.0 3765329.fls.doubleclick.net
-0.0.0.0 4514783.fls.doubleclick.net
-0.0.0.0 4923503.fls.doubleclick.net
-0.0.0.0 4942839.fls.doubleclick.net
-0.0.0.0 5582200.fls.doubleclick.net
-0.0.0.0 8210643.fls.doubleclick.net
-0.0.0.0 8482194.fls.doubleclick.net
-0.0.0.0 8563004.fls.doubleclick.net
-0.0.0.0 adx.g.doubleclick.net
-0.0.0.0 googleads4.g.doubleclick.net
-0.0.0.0 pagead.l.doubleclick.net
-0.0.0.0 pagead46.l.doubleclick.net
-0.0.0.0 partnerad.l.doubleclick.net
-0.0.0.0 undefined.fls.doubleclick.net
 0.0.0.0 themindcircle.com
 0.0.0.0 leoninestudios.com
 0.0.0.0 ci.oldsmar.fl.us
@@ -50,6 +35,28 @@
 
 # Games and their Tracker
 0.0.0.0 stat.questofislands.com
+
+# Google
+0.0.0.0 3642305.fls.doubleclick.net
+0.0.0.0 3765329.fls.doubleclick.net
+0.0.0.0 4514783.fls.doubleclick.net
+0.0.0.0 4923503.fls.doubleclick.net
+0.0.0.0 4942839.fls.doubleclick.net
+0.0.0.0 5582200.fls.doubleclick.net
+0.0.0.0 8210643.fls.doubleclick.net
+0.0.0.0 8482194.fls.doubleclick.net
+0.0.0.0 8563004.fls.doubleclick.net
+0.0.0.0 adx.g.doubleclick.net
+0.0.0.0 googleads4.g.doubleclick.net
+0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 pagead46.l.doubleclick.net
+0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 undefined.fls.doubleclick.net
+0.0.0.0 ad.doubleclickt.net
+0.0.0.0 googletagmanager.com
+0.0.0.0 pagead2.googlesyndication.com
+0.0.0.0 s0.2mdn.net
+0.0.0.0 securepubads.g.doubleclick.net
 
 
 # MS
@@ -90,6 +97,16 @@
 
 # Bounce Exchange
 0.0.0.0 tag.bounceexchange.com
+
+# WarnerMedia
+0.0.0.0 ib.adnxs.com
+0.0.0.0 adnxs.com
+0.0.0.0 *. adnxs.com
+
+# PubMatic
+0.0.0.0 hbopenid.pubmatic.com
+0.0.0.0 *.pubmatic.com
+0.0.0.0 pubmatic.com
 
 # Unknown
 0.0.0.0 (\.|^)omny\.fm$
