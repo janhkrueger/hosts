@@ -4,8 +4,6 @@
 #
 # The list is for my private browsing and not created to be compatible with other people browsing habits.
 
-
-0.0.0.0 sak.userreport.com
 0.0.0.0 mwf-service.akamaized.net
 0.0.0.0 statics-marketingsites-wcus-ms-com.akamaized.net
 0.0.0.0 traffic.emsservice.de
@@ -179,6 +177,13 @@
 0.0.0.0 *.justpremium.com
 (\.|^)justpremium\.com$
 
+# AudienceProject
+0.0.0.0 sak.userreport.com
+0.0.0.0 pdw-usr.userreport.com
+0.0.0.0 *.userreport.com
+0.0.0.0 userreport.com
+(\.|^)userreport\.com$
+
 # Unknown
 0.0.0.0 (\.|^)omny\.fm$
 0.0.0.0 omny.fm
@@ -202,7 +207,6 @@
 (\.|^)vgwort\.de$
 (\.|^)doubleclick\.net$
 (\.|^)trafficmanager\.net$
-
 (\.|^)googlesyndication\.com$
 (\.|^)googleadservices\.com$
 (\.|^)googletagmanager\.com$
