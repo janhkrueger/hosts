@@ -147,6 +147,11 @@
 0.0.0.0 adform.net
 0.0.0.0 *.adform.net
 
+# Virtual Minds
+0.0.0.0 dmp.theadex.com
+0.0.0.0 theadex.com
+0.0.0.0 *.theadex.com
+
 # Unknown
 0.0.0.0 (\.|^)omny\.fm$
 0.0.0.0 omny.fm
