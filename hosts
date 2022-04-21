@@ -187,6 +187,13 @@
 0.0.0.0 svonm.com
 0.0.0.0 *.svonm.com
 
+# Kameleoon
+0.0.0.0 yxsu5ufd2m.kameleoon.eu
+0.0.0.0 kameleoon.eu
+0.0.0.0 *.kameleoon.eu
+(\.|^)kameleoon\.eu$
+
+
 # Specific Sites
 0.0.0.0 epochtimes.de
 0.0.0.0 journalistenwatch.com
