@@ -157,6 +157,12 @@
 (\.|^)mxcdn\.net$
 (\.|^)mxcdn\.net$
 
+# District M
+0.0.0.0 dmx.districtm.io
+0.0.0.0 districtm.io
+0.0.0.0 *.districtm.io
+(\.|^)districtm\.io$
+
 # Unknown
 0.0.0.0 (\.|^)omny\.fm$
 0.0.0.0 omny.fm
