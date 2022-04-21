@@ -271,6 +271,11 @@ cdn.permutive.com
 permutive.com
 (\.|^)permutive\.com$
 
+# AdThrive
+0.0.0.0 ads.adthrive.com
+0.0.0.0 adthrive.com
+(\.|^)adthrive\.com$
+
 # Specific Sites
 0.0.0.0 epochtimes.de
 0.0.0.0 journalistenwatch.com
