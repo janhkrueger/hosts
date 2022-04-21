@@ -93,6 +93,7 @@
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 vrt.outbrain.com
+(\.|^)outbrain\.com$
 
 # Bounce Exchange
 0.0.0.0 tag.bounceexchange.com
