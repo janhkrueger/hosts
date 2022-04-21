@@ -111,6 +111,10 @@
 # Index Exchange
 0.0.0.0 htlb.casalemedia.com
 
+# openX
+0.0.0.0 yieldlove-d.openx.net
+0.0.0.0 openx.net
+
 
 # Unknown
 0.0.0.0 (\.|^)omny\.fm$
