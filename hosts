@@ -139,6 +139,9 @@
 # Improve Digital
 0.0.0.0 ice.360yield.com
 
+# ID5
+0.0.0.0 id5-sync.com
+
 # Unknown
 0.0.0.0 (\.|^)omny\.fm$
 0.0.0.0 omny.fm
