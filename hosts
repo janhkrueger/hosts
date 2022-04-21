@@ -213,6 +213,11 @@
 0.0.0.0 *.kameleoon.eu
 (\.|^)kameleoon\.eu$
 
+# The Trade Desk
+0.0.0.0 match.adsrvr.org
+0.0.0.0 adsrvr.org
+0.0.0.0 *.adsrvr.org
+(\.|^)adsrvr\.org$
 
 # Specific Sites
 0.0.0.0 epochtimes.de
