@@ -75,7 +75,9 @@
 0.0.0.0 msn.com
 0.0.0.0 client.wns.windows.com
 0.0.0.0 clarity.ms
+0.0.0.0 *.clarity.ms
 0.0.0.0 c.clarity.ms
+0.0.0.0 h.clarity.ms
 0.0.0.0 j.clarity.ms
 0.0.0.0 k.clarity.ms
 0.0.0.0 *.clarity.ms
@@ -137,6 +139,8 @@
 # openX
 0.0.0.0 yieldlove-d.openx.net
 0.0.0.0 openx.net
+0.0.0.0 u.openx.net
+(\.|^)openx\.net$
 
 # The Rubicon Project
 0.0.0.0 fastlane.rubiconproject.com
