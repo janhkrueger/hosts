@@ -276,6 +276,11 @@ permutive.com
 0.0.0.0 adthrive.com
 (\.|^)adthrive\.com$
 
+# FullStory
+0.0.0.0 edge.fullstory.com
+0.0.0.0 fullstory.com
+(\.|^)fullstory\.com$
+
 # Specific Sites
 0.0.0.0 epochtimes.de
 0.0.0.0 journalistenwatch.com
