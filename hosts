@@ -58,6 +58,8 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 securepubads.g.doubleclick.net
+0.0.0.0 *.doubleclick.net
+0.0.0.0 doubleclick.net
 
 
 # MS
@@ -187,8 +189,6 @@
 # opendoor.com
 0.0.0.0 *.adnxs.com
 0.0.0.0 adnxs.com
-0.0.0.0 *.doubleclick.net
-0.0.0.0 doubleclick.net
 0.0.0.0 hotjar.com
 0.0.0.0 *.hotjar.com
 0.0.0.0 segment.io
