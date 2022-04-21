@@ -27,7 +27,6 @@
 
 # Plex
 0.0.0.0 abcdefghijklmnopqrstuvwxyz012345.plex.direct
-0.0.0.0 *.abcdefghijklmnopqrstuvwxyz012345.plex.direct
 
 # Spiegel Online
 0.0.0.0 magazin.spiegel.de
@@ -61,7 +60,6 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 *.doubleclick.net
 0.0.0.0 doubleclick.net
 (\.|^)doubleclick\.net$
 (\.|^)googlesyndication\.com$
@@ -88,7 +86,6 @@
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 amazon-adsystem.com
-0.0.0.0 *.amazon-adsystem.com
 (\.|^)amazon-adsystem\.com$
 
 # Salesforce
@@ -120,20 +117,17 @@
 # WarnerMedia
 0.0.0.0 ib.adnxs.com
 0.0.0.0 adnxs.com
-0.0.0.0 *.adnxs.com
 (\.|^)warnermediacdn\.com$
 (\.|^)adnxs\.com$
 
 # PubMatic
 0.0.0.0 hbopenid.pubmatic.com
-0.0.0.0 *.pubmatic.com
 0.0.0.0 pubmatic.com
 
 # Index Exchange
 0.0.0.0 htlb.casalemedia.com
 0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 casalemedia.com
-0.0.0.0 *.casalemedia.com
 (\.|^)casalemedia\.com$
 
 # openX
@@ -155,8 +149,6 @@
 0.0.0.0 bidder.criteo.com
 0.0.0.0 gum.criteo.com
 0.0.0.0 static.criteo.net
-0.0.0.0 *.criteo.com
-0.0.0.0 *.criteo.net
 (\.|^)criteo\.net$
 (\.|^)criteo\.com$
 
@@ -170,81 +162,67 @@
 0.0.0.0 c1.adform.net
 0.0.0.0 adx.adform.net
 0.0.0.0 adform.net
-0.0.0.0 *.adform.net
 
 # Virtual Minds
 0.0.0.0 dmp.theadex.com
 0.0.0.0 theadex.com
-0.0.0.0 *.theadex.com
 (\.|^)theadex\.com$
 0.0.0.0 dsp.adfarm1.adition.com
-0.0.0.0 *.adfarm1.adition.com
 0.0.0.0 adfarm1.adition.com
 0.0.0.0 adition.com
-0.0.0.0 *.adition.com
 (\.|^)adition\.com$
 
 # DoubleVerify
 0.0.0.0 s240.mxcdn.net
 0.0.0.0 mxcdn.net
-0.0.0.0 *.mxcdn.net
 (\.|^)mxcdn\.net$
 
 
 # District M
 0.0.0.0 dmx.districtm.io
 0.0.0.0 districtm.io
-0.0.0.0 *.districtm.io
 (\.|^)districtm\.io$
 
 # Ströer Group
 0.0.0.0 hb.adscale.de
 0.0.0.0 js.adscale.de
 0.0.0.0 adscale.de
-0.0.0.0 *.adscale.de
 (\.|^)adscale\.de$
 
 # JustPremium
 0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 ads.justpremium.com
 0.0.0.0 justpremium.com
-0.0.0.0 *.justpremium.com
 (\.|^)justpremium\.com$
 
 # AudienceProject
 0.0.0.0 sak.userreport.com
 0.0.0.0 pdw-usr.userreport.com
-0.0.0.0 *.userreport.com
 0.0.0.0 userreport.com
 (\.|^)userreport\.com$
 
 # schnee von morgen webTV
 0.0.0.0 hgc-cf-cache-1.svonm.com
 0.0.0.0 svonm.com
-0.0.0.0 *.svonm.com
 
 # Kameleoon
 0.0.0.0 yxsu5ufd2m.kameleoon.eu
 0.0.0.0 kameleoon.eu
-0.0.0.0 *.kameleoon.eu
 (\.|^)kameleoon\.eu$
 
 # The Trade Desk
 0.0.0.0 match.adsrvr.org
 0.0.0.0 adsrvr.org
-0.0.0.0 *.adsrvr.org
 (\.|^)adsrvr\.org$
 
 # IPONWEB
 0.0.0.0 x.bidswitch.net
-0.0.0.0 *.bidswitch.net
 0.0.0.0 bidswitch.net
 (\.|^)bidswitch\.net$
 
 # MediaMath
 0.0.0.0 sync.mathtag.com
 0.0.0.0 mathtag.com
-0.0.0.0 *.mathtag.com
 (\.|^)mathtag\.com$
 
 # Specific Sites
@@ -260,14 +238,10 @@
 0.0.0.0 treasuredata.com
 
 # opendoor.com
-0.0.0.0 *.adnxs.com
 0.0.0.0 adnxs.com
 0.0.0.0 hotjar.com
-0.0.0.0 *.hotjar.com
 0.0.0.0 segment.io
-0.0.0.0 *.segment.io
 0.0.0.0 segment.com
-0.0.0.0 *.segment.com
 
 #=====================================
 # Regular Expressions
