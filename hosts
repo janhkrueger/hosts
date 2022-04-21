@@ -49,13 +49,19 @@
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 undefined.fls.doubleclick.net
-0.0.0.0 ad.doubleclickt.net
+0.0.0.0 ad.doubleclick.net
+0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 googletagmanager.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 *.doubleclick.net
 0.0.0.0 doubleclick.net
+(\.|^)doubleclick\.net$
+(\.|^)googlesyndication\.com$
+(\.|^)googleadservices\.com$
+(\.|^)googletagmanager\.com$
+(\.|^)google-analytics\.com$
 
 
 # MS
@@ -221,12 +227,7 @@
 # Regular Expressions
 (\.|^)opecloud\.com$
 (\.|^)vgwort\.de$
-(\.|^)doubleclick\.net$
 (\.|^)trafficmanager\.net$
-(\.|^)googlesyndication\.com$
-(\.|^)googleadservices\.com$
-(\.|^)googletagmanager\.com$
-(\.|^)google-analytics\.com$
 (\.|^)ioam\.de$
 (\.|^)warnermediacdn\.com$
 (\.|^)beemray\.com$
