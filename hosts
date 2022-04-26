@@ -111,6 +111,7 @@ l.facebook.com
 0.0.0.0 j.clarity.ms
 0.0.0.0 k.clarity.ms
 0.0.0.0 edge.microsoft.com
+0.0.0.0 v10.events.data.microsoft.com
 (\.|^)clarity\.ms$
 
 # Amazon
