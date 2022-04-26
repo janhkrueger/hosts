@@ -331,6 +331,12 @@ api.leanplum.com
 0.0.0.0 segment.io
 0.0.0.0 segment.com
 
+# alexa
+cortana-gateway.amazon.com
+api.amazonalexa.com
+avs.eu.amazonalexa.com
+d3p8zr0ffa9t17.cloudfront.net
+
 #=====================================
 # Regular Expressions
 (\.|^)opecloud\.com$
