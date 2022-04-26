@@ -294,6 +294,9 @@ permutive.com
 0.0.0.0 branch.io
 (\.|^)branch\.io$
 
+# Yandex
+0.0.0.0 mc.yandex.ru
+
 # Specific Sites
 0.0.0.0 epochtimes.de
 0.0.0.0 journalistenwatch.com
