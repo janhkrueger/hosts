@@ -297,6 +297,10 @@ permutive.com
 # Yandex
 0.0.0.0 mc.yandex.ru
 
+# Huawei
+servicesupport.hicloud.com
+
+
 # Specific Sites
 0.0.0.0 epochtimes.de
 0.0.0.0 journalistenwatch.com
