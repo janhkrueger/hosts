@@ -205,6 +205,7 @@ l.facebook.com
 0.0.0.0 adfarm1.adition.com
 0.0.0.0 adition.com
 (\.|^)adition\.com$
+0.0.0.0 ad.yieldlab.com
 
 # DoubleVerify
 0.0.0.0 s240.mxcdn.net
