@@ -346,6 +346,9 @@ api.amazonalexa.com
 avs.eu.amazonalexa.com
 d3p8zr0ffa9t17.cloudfront.net
 
+# INFOnline
+0.0.0.0 script.ioam.de
+
 #=====================================
 # Regular Expressions
 (\.|^)opecloud\.com$
