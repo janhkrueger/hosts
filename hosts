@@ -349,6 +349,9 @@ d3p8zr0ffa9t17.cloudfront.net
 # INFOnline
 0.0.0.0 script.ioam.de
 
+# Verizon Media
+0.0.0.0 cms.analytics.yahoo.com
+
 #=====================================
 # Regular Expressions
 (\.|^)opecloud\.com$
