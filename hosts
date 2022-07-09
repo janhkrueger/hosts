@@ -139,6 +139,7 @@ l.facebook.com
 # Sovrn Holdings
 0.0.0.0 get.s-onetag.com
 0.0.0.0 s-onetag.com
+0.0.0.0 cdn.viglink.com
 
 # Outbrain
 0.0.0.0 widgets.outbrain.com
@@ -173,11 +174,13 @@ l.facebook.com
 (\.|^)openx\.net$
 
 # The Rubicon Project
+# Magnite
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 rubiconproject.com
 
 # Smartadserver
 0.0.0.0 prg.smartadserver.com
+0.0.0.0 sync.smartadserver.com
 0.0.0.0 smartadserver.com
 
 # Criteo
@@ -221,6 +224,7 @@ l.facebook.com
 
 # Ströer Group
 0.0.0.0 hb.adscale.de
+0.0.0.0 ih.adscale.de
 0.0.0.0 js.adscale.de
 0.0.0.0 adscale.de
 (\.|^)adscale\.de$
@@ -233,6 +237,7 @@ l.facebook.com
 
 # AudienceProject
 0.0.0.0 sak.userreport.com
+0.0.0.0 audex.userreport.com
 0.0.0.0 pdw-usr.userreport.com
 0.0.0.0 userreport.com
 (\.|^)userreport\.com$
@@ -253,6 +258,7 @@ l.facebook.com
 
 # Twitter
 0.0.0.0 static.ads-twitter.com
+0.0.0.0 sydication.twitter.com
 
 
 # IPONWEB
@@ -263,6 +269,7 @@ l.facebook.com
 # MediaMath
 0.0.0.0 sync.mathtag.com
 0.0.0.0 mathtag.com
+0.0.0.0 pixel.mathtag.com
 (\.|^)mathtag\.com$
 
 # Oracle
@@ -277,6 +284,7 @@ l.facebook.com
 (\.|^)parsley\.com$
 
 # Permutive
+0.0.0.0 cdn.permutive.com
 cdn.permutive.com
 permutive.com
 (\.|^)permutive\.com$
@@ -352,6 +360,21 @@ d3p8zr0ffa9t17.cloudfront.net
 
 # Verizon Media
 0.0.0.0 cms.analytics.yahoo.com
+
+# Platform161
+0.0.0.0 ads.creative-serving.com
+
+# Roq.ad
+0.0.0.0 ws3.rqtrk.eu
+
+# Quantcast
+0.0.0.0 secure.quantserve.com
+
+# Teads
+0.0.0.0 a.teads.tv
+
+
+
 
 #=====================================
 # Regular Expressions
