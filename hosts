@@ -376,6 +376,7 @@ d3p8zr0ffa9t17.cloudfront.net
 
 
 
+
 #=====================================
 # Regular Expressions
 (\.|^)opecloud\.com$
@@ -383,6 +384,8 @@ d3p8zr0ffa9t17.cloudfront.net
 (\.|^)trafficmanager\.net$
 (\.|^)ioam\.de$
 (\.|^)beemray\.com$
+(\.|^)monarchads\.com$
+(\.|^)easyar\.com$
 
 # Title: Perflyst's SmartTV Blocklist for Pi-hole - RegEx extension
 # https://perflyst.github.io/PiHoleBlocklist/regex.list
@@ -412,3 +415,4 @@ d3p8zr0ffa9t17.cloudfront.net
 # Other
 # (^|\.)myhomescreen\.tv$ # can produce false positives, rather block individual domains
 ^api\..*\.hismarttv\.com$
+
