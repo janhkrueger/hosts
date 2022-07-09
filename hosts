@@ -249,6 +249,10 @@ l.facebook.com
 0.0.0.0 adsrvr.org
 (\.|^)adsrvr\.org$
 
+# Twitter
+0.0.0.0 static.ads-twitter.com
+
+
 # IPONWEB
 0.0.0.0 x.bidswitch.net
 0.0.0.0 bidswitch.net
