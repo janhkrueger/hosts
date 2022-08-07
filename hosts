@@ -70,6 +70,11 @@ l.facebook.com
 0.0.0.0 spiegel.demdex.net
 0.0.0.0 sams.spielgel.de
 0.0.0.0 sats.spiegel.de
+0.0.0.0 adobetm.com
+0.0.0.0 exelator.com
+0.0.0.0 indexww.com
+
+
 
 # Games and their Tracker
 0.0.0.0 stat.questofislands.com
@@ -95,6 +100,7 @@ l.facebook.com
 0.0.0.0 googletagmanager.com
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 s0.2mdn.net
+0.0.0.0 2mdn.net
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 doubleclick.net
 (\.|^)doubleclick\.net$
@@ -155,6 +161,7 @@ l.facebook.com
 0.0.0.0 adnxs.com
 (\.|^)warnermediacdn\.com$
 (\.|^)adnxs\.com$
+0.0.0.0 adnxs.com
 
 # PubMatic
 0.0.0.0 hbopenid.pubmatic.com
@@ -363,6 +370,7 @@ d3p8zr0ffa9t17.cloudfront.net
 
 # Platform161
 0.0.0.0 ads.creative-serving.com
+0.0.0.0 creative-serving.com
 
 # Roq.ad
 0.0.0.0 ws3.rqtrk.eu
@@ -372,7 +380,25 @@ d3p8zr0ffa9t17.cloudfront.net
 
 # Teads
 0.0.0.0 a.teads.tv
+0.0.0.0 teads.tv
 
+# Unknown
+0.0.0.0 1rx.io
+0.0.0.0 33across.com
+0.0.0.0 3lift.com
+0.0.0.0 dotomi.com
+0.0.0.0 emxdgt.com
+0.0.0.0 gumgum.com
+0.0.0.0 lijit.com
+0.0.0.0 media.net
+0.0.0.0 rlcdn.com
+0.0.0.0 sharethrough.com
+0.0.0.0 sonobi.com
+0.0.0.0 undertone.com
+0.0.0.0 dwin1.com
+0.0.0.0 alicdn.com
+0.0.0.0 yotpo.com
+0.0.0.0 onthe.io
 
 
 
