@@ -442,3 +442,25 @@ d3p8zr0ffa9t17.cloudfront.net
 # (^|\.)myhomescreen\.tv$ # can produce false positives, rather block individual domains
 ^api\..*\.hismarttv\.com$
 
+# 3CX Trojan domains
+akamaicontainer.com
+akamaitechcloudservices.com
+azuredeploystore.com
+azureonlinecloud.com
+azureonlinestorage.com
+dunamistrd.com
+glcloudservice.com
+journalide.org
+msedgepackageinfo.com
+msstorageazure.com
+msstorageboxes.com
+officeaddons.com
+officestoragebox.com
+pbxcloudeservices.com
+pbxphonenetwork.com
+pbxsources.com
+qwepoi123098.com
+sbmsa.wiki
+sourceslabs.com
+visualstudiofactory.com
+zacharryblogs.com
