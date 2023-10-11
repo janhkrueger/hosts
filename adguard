@@ -1,3 +1,46 @@
+||mwf-service.akamaized.net^
+||statics-marketingsites-wcus-ms-com.akamaized.net^
+||emsservice.de^
+||videos.sharesome.com^
+||double.net^
+||themindcircle.com^
+||leoninestudios.com^
+||ci.oldsmar.fl.us^
+||oldsmar.fl.us^
+||assets.scoober.com^
+||gettr.com^
+||fllwrs.com^
+
+# Vizio
+||tvinteractive.tv^
+
+# Other
+# (^|\.)myhomescreen\.tv$ # can produce false positives, rather block individual domains
+||hismarttv.com^
+
+# 3CX Trojan domains
+||akamaicontainer.com^
+||akamaitechcloudservices.com^
+||azuredeploystore.com^
+||azureonlinecloud.com^
+||azureonlinestorage.com^
+||dunamistrd.com^
+||glcloudservice.com^
+||journalide.org^
+||msedgepackageinfo.com^
+||msstorageazure.com^
+||msstorageboxes.com^
+||officeaddons.com^
+||officestoragebox.com^
+||pbxcloudeservices.com^
+||pbxphonenetwork.com^
+||pbxsources.com^
+||qwepoi123098.com^
+||sbmsa.wiki^
+||sourceslabs.com^
+||visualstudiofactory.com^
+||zacharryblogs.com^
+
 # AI Writers
 ||zleague.gg^
 ||rytr.me^
