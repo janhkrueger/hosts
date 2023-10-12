@@ -88,6 +88,82 @@
 # Bounce Exchange
 ||bounceexchange.com^
 
+# WarnerMedia
+||ib.adnxs.com^
+||adnxs.com^
+||warnermediacdn.com^
+
+# PubMatic
+||hbopenid.pubmatic.com^
+||mage6.pubmatic.com^
+||pubmatic.com^
+
+# Index Exchange
+||htlb.casalemedia.com^
+||ssum-sec.casalemedia.com^
+||casalemedia.com^
+
+# openX
+||yieldlove-d.openx.net^
+||openx.net^
+||u.openx.net^
+
+# The Rubicon Project
+# Magnite
+||fastlane.rubiconproject.com^
+||rubiconproject.com^
+
+# Smartadserver
+||prg.smartadserver.com^
+||sync.smartadserver.com^
+||smartadserver.com^
+
+# Criteo
+||bidder.criteo.com^
+||gum.criteo.com^
+||static.criteo.net^
+||criteo.net^
+||criteo.com^
+
+# Improve Digital
+||ice.360yield.com^
+||360yield.com^
+
+# ID5
+||id5-sync.com^
+
+# Adform
+||c1.adform.net^
+||adx.adform.net^
+||adform.net^
+
+# Virtual Minds
+||dmp.theadex.com^
+||theadex.com^
+||dsp.adfarm1.adition.com^
+||adfarm1.adition.com^
+||adition.com^
+||ad.yieldlab.com^
+
+# DoubleVerify
+||s240.mxcdn.net^
+||mxcdn.net^
+
+# District M
+||dmx.districtm.io^
+||districtm.io^
+
+# Ströer Group
+||hb.adscale.de^
+||ih.adscale.de^
+||js.adscale.de^
+||adscale.de^
+
+# JustPremium
+||pre.ads.justpremium.com^
+||ads.justpremium.com^
+||justpremium.com^
+
 # Vizio
 ||tvinteractive.tv^
 
