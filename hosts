@@ -60,6 +60,14 @@ l.facebook.com
 (\.|^)facebook\.com$
 (\.|^)facebook\.net$
 
+# Twitter
+0.0.0.0 analytics.twitter.com
+0.0.0.0 static.ads-twitter.com
+0.0.0.0 ads-twitter.com
+0.0.0.0 ads.twitter.com
+0.0.0.0 ads-bidder-api.twitter.com
+0.0.0.0 twitter-srv.buysellads.com
+
 # Plex
 0.0.0.0 abcdefghijklmnopqrstuvwxyz012345.plex.direct
 

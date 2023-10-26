@@ -25,6 +25,14 @@
 ||facebook.com^
 ||facebook.net^
 
+# Twitter / X
+||analytics.twitter.com^
+||static.ads-twitter.com^
+||ads-twitter.com^
+||ads.twitter.com^
+||ads-bidder-api.twitter.com^
+||twitter-srv.buysellads.com^
+
 # Plex
 ||abcdefghijklmnopqrstuvwxyz012345.plex.direct^
 
