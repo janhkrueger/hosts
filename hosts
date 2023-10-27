@@ -16,7 +16,6 @@
 0.0.0.0 assets.scoober.com
 0.0.0.0 gettr.com
 0.0.0.0 fllwrs.com
-0.0.0.0 stripchat.com
 
 # XBox
 0.0.0.0 catalog.gamepass.com
@@ -486,4 +485,8 @@ mode.encagil.com
 
 
 # Porn
-0.0.0.0 stripchat.com
+stripchat.com
+
+# Adloving
+ms.applovin.com
+ms.applvn.com
