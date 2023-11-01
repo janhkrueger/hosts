@@ -1,0 +1,39 @@
+#=====================================
+# Hosts contributed by Jan H. Krüger
+# https://janhkrueger.gitlab.io/blog/
+#
+# The list is for my private browsing and not created to be compatible with other people browsing habits.
+#
+# Google
+#
+
+# Google
+3642305.fls.doubleclick.net
+3765329.fls.doubleclick.net
+4514783.fls.doubleclick.net
+4923503.fls.doubleclick.net
+4942839.fls.doubleclick.net
+5582200.fls.doubleclick.net
+8210643.fls.doubleclick.net
+8482194.fls.doubleclick.net
+8563004.fls.doubleclick.net
+fls.doubleclick.net
+adx.g.doubleclick.net
+googleads4.g.doubleclick.net
+pagead.l.doubleclick.net
+pagead46.l.doubleclick.net
+partnerad.l.doubleclick.net
+undefined.fls.doubleclick.net
+ad.doubleclick.net
+cm.g.doubleclick.net
+googletagmanager.com
+pagead2.googlesyndication.com
+s0.2mdn.net
+2mdn.net
+securepubads.g.doubleclick.net
+doubleclick.net
+(\.|^)doubleclick\.net$
+(\.|^)googlesyndication\.com$
+(\.|^)googleadservices\.com$
+(\.|^)googletagmanager\.com$
+(\.|^)google-analytics\.com$

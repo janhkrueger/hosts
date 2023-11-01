@@ -36,37 +36,6 @@
 # Games and their Tracker
 0.0.0.0 stat.questofislands.com
 
-# Google
-0.0.0.0 3642305.fls.doubleclick.net
-0.0.0.0 3765329.fls.doubleclick.net
-0.0.0.0 4514783.fls.doubleclick.net
-0.0.0.0 4923503.fls.doubleclick.net
-0.0.0.0 4942839.fls.doubleclick.net
-0.0.0.0 5582200.fls.doubleclick.net
-0.0.0.0 8210643.fls.doubleclick.net
-0.0.0.0 8482194.fls.doubleclick.net
-0.0.0.0 8563004.fls.doubleclick.net
-0.0.0.0 adx.g.doubleclick.net
-0.0.0.0 googleads4.g.doubleclick.net
-0.0.0.0 pagead.l.doubleclick.net
-0.0.0.0 pagead46.l.doubleclick.net
-0.0.0.0 partnerad.l.doubleclick.net
-0.0.0.0 undefined.fls.doubleclick.net
-0.0.0.0 ad.doubleclick.net
-0.0.0.0 cm.g.doubleclick.net
-0.0.0.0 googletagmanager.com
-0.0.0.0 pagead2.googlesyndication.com
-0.0.0.0 s0.2mdn.net
-0.0.0.0 2mdn.net
-0.0.0.0 securepubads.g.doubleclick.net
-0.0.0.0 doubleclick.net
-(\.|^)doubleclick\.net$
-(\.|^)googlesyndication\.com$
-(\.|^)googleadservices\.com$
-(\.|^)googletagmanager\.com$
-(\.|^)google-analytics\.com$
-
-
 # MS
 0.0.0.0 skype.com
 0.0.0.0 msn.com
