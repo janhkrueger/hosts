@@ -21,47 +21,6 @@
 0.0.0.0 catalog.gamepass.com
 0.0.0.0 aka-cdn.adtech.de
 
-# Facebook / Meta
-0.0.0.0 facebook.com
-0.0.0.0 facebook.net
-0.0.0.0 connect.facebook.net
-scontent.xx.fbcdn.net
-connect.facebook.net
-star.c10r.facebook.com
-static.xx.fbcdn.net
-de-de.facebook.com
-upload.facebook.com
-creative.ak.fbcdn.net
-external-lhr0-1.xx.fbcdn.net
-external-lhr1-1.xx.fbcdn.net
-external-lhr10-1.xx.fbcdn.net
-external-lhr2-1.xx.fbcdn.net
-external-lhr3-1.xx.fbcdn.net
-external-lhr4-1.xx.fbcdn.net
-external-lhr5-1.xx.fbcdn.net
-external-lhr6-1.xx.fbcdn.net
-external-lhr7-1.xx.fbcdn.net
-external-lhr9-1.xx.fbcdn.net
-fbcdn-creative-a.akamaihd.net
-scontent-lhr3-1.xx.fbcdn.net
-fgdl5-1.fna.fbcdn.net
-cdn.fbsbx.com
-api.facebook.com
-edge-mqtt.facebook.com
-mmqtt.c10r.facebook.com
-portal.fb.com
-star.c10r.facebook.com
-star-mini.c10r.facebook.com
-b-api.facebook.com
-fb.me
-bigzipfiles.facebook.com
-l.facebook.com
-(\.|^)facebook\.com$
-(\.|^)facebook\.net$
-
-# Instagram
-instagram.com
-
 # Twitter
 0.0.0.0 analytics.twitter.com
 0.0.0.0 static.ads-twitter.com
@@ -72,19 +31,6 @@ instagram.com
 
 # Plex
 0.0.0.0 abcdefghijklmnopqrstuvwxyz012345.plex.direct
-
-# Spiegel Online
-0.0.0.0 magazin.spiegel.de
-0.0.0.0 anti-spiegel.ru
-0.0.0.0 sportdaten.spiegel.de
-0.0.0.0 sni.cdn.prod.www.spiegel.de.c.footprint.net
-0.0.0.0 spiegel.demdex.net
-0.0.0.0 sams.spielgel.de
-0.0.0.0 sats.spiegel.de
-0.0.0.0 adobetm.com
-0.0.0.0 exelator.com
-0.0.0.0 indexww.com
-
 
 
 # Games and their Tracker
