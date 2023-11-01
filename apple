@@ -1,0 +1,8 @@
+# Blocklist to quick block Apple services with PiHole
+gateway.icloud.com
+gateway.fe.apple-dns.net
+apple-dns.net
+fe.apple-dns.net
+apple.com
+weather-data.apple.com
+gspe79-ssl.ls.apple.com
