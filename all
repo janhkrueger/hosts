@@ -1,0 +1,16 @@
+#=====================================
+# Hosts contributed by Jan H. Krüger
+# https://janhkrueger.gitlab.io/blog/
+#
+# The list is for my private browsing and not created to be compatible with other people browsing habits.
+#
+# All
+#
+
+# All
+# In case of wanting to block everyting, perhaps as Default.
+
+.*
+.
+(^|\.)*
+(^|\.)*$
