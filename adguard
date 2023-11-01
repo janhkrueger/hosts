@@ -225,6 +225,8 @@
 ||cms-cdn.yo-digital.com^
 ||yo.digital^
 ||mllrsohnapps.com^
+app-measurement.com^
+
 
 
 # Arbeitsgemeinschaft Media-Analyse
@@ -241,3 +243,8 @@
 # schneevonmorgen.com
 ||schneevonmorgen.com^
 ||de1-homad-lb.schneevonmorgen.com^
+
+# newsletter2go.com
+||webapp.newsletter2go.com^
+||newsletter2go.com^
+||static.newsletter2go.com
