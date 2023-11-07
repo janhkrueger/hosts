@@ -233,8 +233,11 @@ permutive.com
 0.0.0.0 static.cloudflareinsights.com
 
 # Branch Metrics
-0.0.0.0 cdn.branch.io
-0.0.0.0 branch.io
+branch.io
+cdn.branch.io
+api1.branch.io
+api2.branch.io
+api.branch.io
 (\.|^)branch\.io$
 
 # Yandex
@@ -449,3 +452,19 @@ segment-data-us-east.zqtk.net
 # radiantmediatechs.com
 cdn-gdpr.radiantmediatechs.com
 radiantmediatechs.com
+
+# omtrdc.net
+omtrdc.net
+sc.omtrdc.net
+audible.sc.omtrdc.net
+
+# vaicore.store
+vaicore.store
+vaicore.xyz
+int.vaicore.xyz
+
+# Adobe
+adobetm.com
+assets.adobetm.com
+
+#
