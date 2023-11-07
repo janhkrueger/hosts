@@ -6,7 +6,9 @@
 #
 # Google
 #
+#
 
+app-measurement.com
 3642305.fls.doubleclick.net
 3765329.fls.doubleclick.net
 4514783.fls.doubleclick.net
@@ -37,3 +39,4 @@ analytics.google.com
 (\.|^)googleadservices\.com$
 (\.|^)googletagmanager\.com$
 (\.|^)google-analytics\.com$
+https://app-measurement.com/sdk-exp
