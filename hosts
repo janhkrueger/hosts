@@ -171,10 +171,6 @@
 0.0.0.0 userreport.com
 (\.|^)userreport\.com$
 
-# schnee von morgen webTV
-0.0.0.0 hgc-cf-cache-1.svonm.com
-0.0.0.0 svonm.com
-
 # Kameleoon
 0.0.0.0 yxsu5ufd2m.kameleoon.eu
 0.0.0.0 kameleoon.eu
@@ -421,6 +417,8 @@ cdn.stroeerdigitalgroup.de
 # schneevonmorgen.com
 schneevonmorgen.com
 de1-homad-lb.schneevonmorgen.com
+hgc-cf-cache-1.svonm.com
+svonm.com
 
 # newsletter2go.com
 webapp.newsletter2go.com
