@@ -56,3 +56,10 @@ remote-data.urbanairship.com
 jobware.net
 sites.jobware.net
 jobs.golem.de
+
+# NEW RELIC
+nr-data.net
+js-agent.newrelic.com
+bam.nr-data.net
+bam-cell.nr-data.net
+*.nr-data.net
