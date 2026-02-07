@@ -22,3 +22,4 @@ spiegel.met.vgwort.de
 
 spiegel.de###iqd_leftAd
 spiegel.de###iqdSitebarL > iframe
+spiegel.de###Inhalt > div.relative.w-full > div.relative:nth-child(6) > section.relative.w-full.group.lg:advertisement-filled:my-16.md:advertisement-filled:my-16.sm:advertisement-filled:my-8:nth-child(9)
