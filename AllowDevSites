@@ -1,0 +1,21 @@
+# Allow sites I regulary need for development.
+
+# Docker
+index.docker.io
+auth.docker.io
+registry-1.docker.io
+desktop.docker.com
+docker.com
+api.docker.com
+production.cloudflare.docker.com
+hub.docker.com
+
+# Github
+github.com
+live.github.com
+alive.github.com
+user-images.githubusercontent.com
+avatars.githubusercontent.com
+github.githubassets.com
+raw.githubusercontent.com
+api.business.githubcopilot.com
