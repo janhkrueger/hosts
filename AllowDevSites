@@ -28,6 +28,10 @@ rustup.rs
 # Ubuntu
 ports.ubuntu.com
 
+# VSCode
+update.code.visualstudio.com
+
+
 
 # VSCode
 vscode-sync.trafficmanager.net
