@@ -30,8 +30,5 @@ ports.ubuntu.com
 
 # VSCode
 update.code.visualstudio.com
-
-
-
-# VSCode
+main.vscode-cdn.net
 vscode-sync.trafficmanager.net
